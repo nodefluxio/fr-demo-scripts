@@ -1,0 +1,4 @@
+file_name,id_num,name,gender,status,birth_date,birth_place
+images/source/Guido.jpeg,P558381,Guido van Rossum,Male,VIP,1956-01-31,NL 
+images/source/Jensen.jpeg,P7832196,Jensen Huang,Male,VVIP,1963-02-17,TW
+images/source/LeCun.jpeg,P8723719,Yann Andre LeCun,Male,VIP,1960-07-08,FR
